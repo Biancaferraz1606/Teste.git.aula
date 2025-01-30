@@ -1,7 +1,7 @@
 const prompt = require('prompt-sync')();
 
 
-var metros = Number(prompt("digite aqui o numero de metros: "));
+var metros = Number(prompt("100 metros "));
 
 var convertido = metros / 1000 
 
