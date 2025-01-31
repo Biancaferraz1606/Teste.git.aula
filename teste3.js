@@ -5,4 +5,4 @@ var metros = Number(prompt("100 metros "));
 
 var convertido = metros / 1000 
 
-console.log("A conversão é "+convertido+"km")
+console.log("A conversã é "+convertido+"km")
